@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Realme narzo 30 pro",
+        "price": 245.67,
+        "description": "Realme is a Powerful device",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/realme-narzo-30-pro.jpg"
+            },
+            {
+                "image": "/images/products/realme-narzo-30-pro-box.jpg"
+            }
+        ],
+        "category": "Mobile Phone",
+        "seller": "Amazon",
+        "stock": 5
+    },
+    {
+        "name": "Apple iPhone 15 Pro Max",
+        "price": 1200.98,
+        "description": "Better Always Better",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/apple-iphone-15-pro-max.jpg"
+            }
+        ],
+        "category": "Mobile Phone",
+        "seller": "Amazon",
+        "stock": 0
+    },
+    {
+        "name": "Redmi Note 10 Pro",
+        "price": 185,
+        "description": "Free to Easy use",
+        "ratings": 3.2,
+        "images": [
+            {
+                "image": "/images/products/redmi-note-10-pro.jpg"
+            },
+            {
+                "image": "/images/products/redmi-note-10-pro-hand.jpg"
+            }
+        ],
+        "category": "Mobile Phone",
+        "seller": "Flipkart",
+        "stock": 18
+    },
+    {
+        "name": "boAt Stone 200 Wireless",
+        "price": 16.38,
+        "description": "Hear Good Feel",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/boat-stone-200-wireless.jpg"
+            }
+        ],
+        "category": "Speaker Wireless",
+        "seller": "Amazon",
+        "stock": 22
+    },
+    {
+        "name": "HP Victus",
+        "price": 600.34,
+        "description": "Play Games With Performance",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/hp-victus.png"
+            },
+            {
+                "image": "/images/products/hp-victus-hand.jpg"
+            }
+        ],
+        "category": "Laptop",
+        "seller": "Flipkart",
+        "stock": 1
+    }
+]
